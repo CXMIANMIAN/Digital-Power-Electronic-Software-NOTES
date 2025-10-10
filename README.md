@@ -1,18 +1,18 @@
 # Digital-Power-Electronic-Software-NOTES
 > A concise collection of topics and focus areas for digital power-electronics firmware development.  
 
-#### 1. Power-electronics Fundamentals: isolation, protection and EMI/EMC.
-#### 2. PLECS / MATLAB Simulation Tools: component modeling, parameter setup and scripting.
-#### 3. Design calculations for main power components (magnetics, capacitors, snubbers, heat dissipation).
-#### 4. Control strategies for major topologies, loop design, and debugging tips (LLC, CLLC, Buck, PFC, DAB, three-phase).
-#### 5. Loop analysis and control theory : bandwidth, phase/gain margin, compensation networks and digital implementation considerations.
-#### 6. Low-level (LL) libraries: on-chip peripheral drivers and deterministic access patterns.
-#### 7. MCU core framework and support functions (STM32 example): memory map, bootloader, watchdogs, startup sequence.
-#### 8. TI DSP usage: architectures, fixed-point vs floating-point considerations, interrupt model.
-#### 9. Peripheral subsystems: ADC sampling strategies, synchronisation, filtering, and communication interfaces (SPI, CAN, UART, I²C).
-#### 10. Reusable modular code: frames, driver/hal layers, component drivers, configuration tables and testing hooks.
-#### 11. Advanced C: pointers, memory model, volatile/atomic usage, optimization pitfalls and compiler behavior.
-#### 12. Real-time OS usage (FreeRTOS): task design, priorities, ISR-to-task handover and resource protection.
-#### 13. Tool chains and IDEs: advanced usage of Keil, STM32CubeMX / CubeIDE, TI CCS and build/debug workflows.
-#### 14. Development & debugging ecosystem: HMI tools, protocol analysers, hardware-in-the-loop, deugging tools, and CI for firmware.
+#### 1. Power Electronics Fundamentals: Isolation, Protection, and EMI/EMC Mitigation.
+#### 2. Simulation with PLECS/MATLAB: Component Modeling, Parameterization, and Scripting.
+#### 3. Power Component Design and Sizing: Magnetics, Capacitors, Snubbers, and Thermal Management.
+#### 4. Control Strategies for Power Topologies: Loop Design and Debugging for LLC, PFC, DAB, etc.
+#### 5. Loop Analysis and Control Theory : Bandwidth, Phase/Gain Margin, Compensation Networks and Digital Implementation Considerations.
+#### 6. Low-Level(LL) Peripheral Control: Mastering parts of Peripheral LL Libraries and Direct Register Access for Deterministic Performance.
+#### 7.MCU System Architecture (e.g., STM32): Memory Map, Bootloader, Watchdogs, and Startup Sequence.
+#### 8. TI C2000 DSP Development: Core Architecture, Fixed- vs. Floating-Point Trade-offs, and Interrupt Handling.
+#### 9. Peripheral Subsystems: High-Precision ADCs, Communication Chips.
+#### 10. Reusable Modular Code: Frames, Driver/Hal Layers, Component Drivers, Configuration Tables and Testing Hooks.
+#### 11. Advanced C for Embedded Systems: Pointers, Memory Model, Volatile/Atomic Qualifiers, Optimization Pitfalls and Compiler Behavior.
+#### 12. Real-time OS (FreeRTOS): Task Design, Priorities, ISR-to-Task Handover and Resource Protection.
+#### 13. Toolchain and IDEs: Advanced Techniques in Keil, CubeIDE, and CCS for Efficient Build/Debug Cycles.
+#### 14. Development & Debugging ecosystem: HMI Tools, Protocol Analysers, Hardware-in-the-loop, Debugging Tools, and CI for Firmware.
 ---
