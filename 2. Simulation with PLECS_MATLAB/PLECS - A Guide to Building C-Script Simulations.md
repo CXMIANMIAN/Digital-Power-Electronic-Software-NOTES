@@ -1,4 +1,4 @@
-# A Guide to Building C-Script Simulations in PlECS
+# A Guide to Building C-Script Simulations in PLECS
 
 ## Preface
 
@@ -54,7 +54,7 @@ The Code section defines multiple functions; this is where the code is written. 
 *   **Output function code**: Used to output signals.
 
 Each time the C-Script is called, the execution flow of the functions in the code section is as follows:
-`Output function code` -> `Start function code` -> `Update function code` -> `codeOutput function code` -> `Update function` -> ……
+`Output function code` -> `Start function code` -> `Update function code` -> `Output function code` -> `Update function` -> ……
 
 ---
 
