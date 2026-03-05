@@ -2,7 +2,7 @@
 > A concise collection of topics and focus areas for digital power-electronics firmware development.  
 
 #### 1. Power Electronics Fundamentals: *Isolation*, *Protection*, and *EMI/EMC Mitigation*.
-#### 2. Simulation with PLECS/MATLAB: *Component Modeling*, *Parameterization*, and *Scripting*.
+#### 2. Simulation with PLECS_MATLAB: *Component Modeling*, *Parameterization*, and *Scripting*.
 #### 3. Power Component Design and Sizing: *Magnetics*, *Capacitors*, *Snubbers*, and *Thermal Management*.
 #### 4. Control Strategies for Power Topologies: *Loop Design* and *Debugging* for *LLC*, *PFC*, *DAB*, etc.
 #### 5. Loop Analysis and Control Theory: *Bandwidth*, *Phase/Gain Margin*, *Compensation Networks*, and *Digital Implementation Considerations*.
